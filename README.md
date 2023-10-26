@@ -14,13 +14,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-- Desktop solution: ![](./images/DesktopSolution.png)
-- Mobil solution: ![](./images/MobilSolution.png)
+- Desktop solution: [](./images/DesktopSolution.png)
+- Mobil solution: [](./images/MobilSolution.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Valen-r-s/Frontend-mentor.git)
-- Live Site URL: [Add live site URL here](https://frontend-mentor-lilac-sigma.vercel.app/)
+- Live Site URL: [](https://frontend-mentor-lilac-sigma.vercel.app/)
 
 ### Built with
 
