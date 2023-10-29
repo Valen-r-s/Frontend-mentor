@@ -29,5 +29,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [Valentina Restrepo Sánchez](https://valen-r-s.github.io/)
+- GitHub - [@Valen-r-s](https://github.com/Valen-r-s)
+- Vercel - [@Valen-r-s](https://vercel.com/valen-r-s)
 - Frontend Mentor - [@Valen-r-s](https://www.frontendmentor.io/profile/Valen-r-s)
-- Instagram - [@valen.r.s](https://www.instagram.com/valen.r.s)
